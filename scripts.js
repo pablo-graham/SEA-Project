@@ -53,6 +53,14 @@ document.addEventListener('DOMContentLoaded', function(){
           const mealType = this.getAttribute('data-meal-type');
           const dropdown = document.getElementById(`${mealType}-dropdown`);
 
+          //have only one section opened at a time
+          document.querySelectorAll('.dropdown-content').forEach(content => {
+            if(content !== dropdown){
+                content.classList.remove('active');
+                content.previousElementSibling.classList.remove('active');
+            }
+          });
+
           this.classList.toggle('active');
           dropdown.classList.toggle('active');
       });
