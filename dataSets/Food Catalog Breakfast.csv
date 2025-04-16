@@ -1,0 +1,13 @@
+Recipe,Type,Difficulty,Ingredients,Calories (kcal),Protein (g),Carbohydrates (g),Total Fat (g),Saturated Fat (g),Fibre (g),Free Sugar (g),Sodium (mg),Prep Time (min),Instructions
+Yoghurt Bowl with Wholegrain Flakes and Fruits,Sweet,Easy,"Yoghurt (150g), Wheat flakes (30g), Peach (140g), Hazelnut (25g), Cinnamon",409,14,44,18,3,7,3.0,258,5,
+Chia Pudding with Multigrain Cereals and Cashew,Sweet,Easy,"Milk (100g), Multigrain cereal (30g), Chia seeds (15g), Apricot (40g), Cashew (25g)",351,11,34,17,3,9,5.0,154,5,
+Cottage Cheese Bowl with Berries and Wholegrain Flakes,Sweet,Easy,"Cottage cheese (100g), Berries (50g), Peanut butter (10g), Wheat flakes (30g), Flaxseed (15g)",316,12,36,11,2,8,3.0,280,5,
+"Yoghurt Porridge with Pear, Walnut & Raisin",Sweet,Easy,"Oat (30g), Yoghurt (150g), Pear (150g), Walnuts (25g), Raisin (20g), Cinnamon",492,15,52,22,4,11,0.0,89,15,
+Savoury Oat Porridge with Mushroom and Poached Egg,Savory,Moderate,"Oat (30g), Soy drink (125g), Egg (60g), Mushrooms (100g), Olive oil, Paprika",401,19,31,25,5,9,3.0,148,15,
+Muesli Drink,Sweet,Easy,"Oat (30g), Milk (200ml), Tahini (15g), Banana (100g), Cocoa powder (15g)",419,18,49,14,4,13,0.1,109,5,
+Optimised Austrian Breakfast,Sweet & Savory,Easy,"Brown bread (50g), Butter (10g), Yoghurt (150g), Apple (100g), Jam (20g), Coffee with milk (200ml)",422,14,61,12,7,6,9.0,334,5,
+Smashed Avocado Bread with Boiled Egg,Savory,Easy,"Wholegrain bread (75g), Avocado (50g), Tomato (100g), Radish (15g), Egg (60g), Lemon juice",330,14,26,17,4,7,0.0,282,15,
+Smoothie Bowl with Peanut Butter and Banana,Sweet,Easy,"Banana (100g), Peanut butter (15g), Milk (150ml), Oats (30g), Berries (50g)",390,13,45,17,3,6,3.0,110,5,
+Avocado Toast with Tomato and Egg,Savory,Easy,"Wholegrain bread (70g), Avocado (50g), Tomato (50g), Egg (60g)",340,12,30,19,4,7,1.0,270,10,
+Egg Muffins with Spinach and Cheese,Savory,Moderate,"Eggs (2), Spinach (30g), Cheese (20g), Onion (10g), Pepper",280,16,4,22,6,1,1.0,300,15,
+Protein Pancakes with Berries,Sweet,Moderate,"Protein powder (30g), Oats (40g), Milk (100ml), Egg (1), Berries (50g)",370,24,36,14,4,5,2.0,230,10,
